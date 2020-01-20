@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Aroma Shop - Checkout</title>
+  <title>GSS - Checkout</title>
 	<link rel="icon" href="img/Fevicon.png" type="image/png">
 
   <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
@@ -33,17 +33,15 @@
                 </button>
                 <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                     <ul class="nav navbar-nav menu_nav ml-auto mr-auto">
-                        <li class="nav-item"><a class="nav-link" href="index.html">Главная</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="index.html">Главная</a></li>
                         <li class="nav-item submenu dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                               aria-expanded="false">Каталог</a>
-                            <ul class="dropdown-menu">
-                                <li class="nav-item"><a class="nav-link" href="category.html">Shop Category</a></li>
-                                <li class="nav-item"><a class="nav-link" href="single-product.html">Blog Details</a></li>
-                                <li class="nav-item"><a class="nav-link" href="checkout.html">Product Checkout</a></li>
-                                <li class="nav-item"><a class="nav-link" href="confirmation.html">Confirmation</a></li>
-                                <li class="nav-item"><a class="nav-link" href="cart.html">Shopping Cart</a></li>
-                            </ul>
+                            <a href="category.html" class="nav-link">Каталог</a>
+                            <!--                <ul class="dropdown-menu">-->
+                            <!--                  <li class="nav-item"><a class="nav-link" href="category.html">Каталог</a></li>-->
+                            <!--&lt;!&ndash;                  <li class="nav-item"><a class="nav-link" href="checkout.html">Что-то типо данных клиента</a></li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;                  <li class="nav-item"><a class="nav-link" href="confirmation.html">Детали заказа</a></li>&ndash;&gt;-->
+                            <!--                  <li class="nav-item"><a class="nav-link" href="cart.html">Корзина</a></li>-->
+                            <!--                </ul>-->
                         </li>
                         <!--              <li class="nav-item submenu dropdown">-->
                         <!--                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"-->
@@ -53,7 +51,7 @@
                         <!--                  <li class="nav-item"><a class="nav-link" href="single-blog.html">Blog Details</a></li>-->
                         <!--                </ul>-->
                         <!--							</li>-->
-                        <li class="nav-item active submenu dropdown">
+                        <li class="nav-item submenu dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                                aria-expanded="false">Личный кабинет</a>
                             <ul class="dropdown-menu">
@@ -63,12 +61,19 @@
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="contact.html">Контакты</a></li>
+                        <li class="nav-item submenu dropdown">
+                            <a href="#" class="nav-link">Другие страницы</a>
+                            <ul class="dropdown-menu">
+                                <li class="nav-item"><a class="nav-link" href="checkout.html">Оформление заказа</a></li>
+                                <li class="nav-item"><a class="nav-link" href="confirmation.html">Подтверждение заказа</a></li>
+                                <li class="nav-item"><a class="nav-link" href="cart.html">Корзина</a></li>
+                            </ul>
+                        </li>
                     </ul>
-
                     <ul class="nav-shop">
                         <li class="nav-item"><button><i class="ti-search"></i></button></li>
                         <li class="nav-item"><button><i class="ti-shopping-cart"></i><span class="nav-shop__circle">3</span></button> </li>
-                        <li class="nav-item"><a class="button button-header" href="#">Оплатить</a></li>
+                        <li class="nav-item"><a class="button button-header" href="#">Купить</a></li>
                     </ul>
                 </div>
             </div>
