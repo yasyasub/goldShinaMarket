@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e52fa97d-6dac-4bfa-b631-6c99798da726" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../category.html" beforeDir="false" afterPath="$PROJECT_DIR$/../category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../confirmation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../confirmation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../single-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../single-product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tracking-order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking-order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +37,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="55" />
-    <option name="y" value="-8" />
-    <option name="width" value="667" />
-    <option name="height" value="784" />
   </component>
   <component name="ProjectId" id="1WfEPKnFN8YGXkkSKxcl8UVWd0T" />
   <component name="ProjectViewState">
@@ -107,7 +95,7 @@
       <workItem from="1578772143521" duration="5002000" />
       <workItem from="1578848018510" duration="4937000" />
       <workItem from="1579074268229" duration="30972000" />
-      <workItem from="1579532234726" duration="1087000" />
+      <workItem from="1579532234726" duration="2234000" />
     </task>
     <servers />
   </component>
