@@ -2,38 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e52fa97d-6dac-4bfa-b631-6c99798da726" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vendors/owl-carousel/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vendors/owl-carousel/owl.carousel.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>384ae</find>
-      <find>384</find>
-      <find>384aeb</find>
-      <find>384a</find>
-      <find>head</find>
-      <find>000000</find>
-      <find>p</find>
-      <find>#002347</find>
-      <find>logo</find>
-      <find>footer-area</find>
-      <find>footer</find>
-      <find>К</find>
-      <find>eeeeee</find>
-      <find>instagram</find>
-      <find>@</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>000000</replace>
-      <replace>#ffffff</replace>
-      <replace>ffc601</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -95,7 +69,7 @@
       <workItem from="1578772143521" duration="5002000" />
       <workItem from="1578848018510" duration="4937000" />
       <workItem from="1579074268229" duration="30972000" />
-      <workItem from="1579532234726" duration="2234000" />
+      <workItem from="1579532234726" duration="2911000" />
     </task>
     <servers />
   </component>
