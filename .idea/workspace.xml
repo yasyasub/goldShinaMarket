@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e52fa97d-6dac-4bfa-b631-6c99798da726" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../vendors/owl-carousel/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vendors/owl-carousel/owl.carousel.min.css" afterDir="false" />
-    </list>
+    <list default="true" id="e52fa97d-6dac-4bfa-b631-6c99798da726" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,7 @@
       <workItem from="1578772143521" duration="5002000" />
       <workItem from="1578848018510" duration="4937000" />
       <workItem from="1579074268229" duration="30972000" />
-      <workItem from="1579532234726" duration="2911000" />
+      <workItem from="1579532234726" duration="3874000" />
     </task>
     <servers />
   </component>
