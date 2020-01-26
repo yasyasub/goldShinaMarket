@@ -82,6 +82,13 @@ $(function() {
   });
 
   //------- Price Range slider -------//
+
+
+
+
+
+
+
   if(document.getElementById("price-range")){
   
     var nonLinearSlider = document.getElementById('price-range');
