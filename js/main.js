@@ -82,14 +82,7 @@ $(function() {
   });
 
   //------- Price Range slider -------//
-
-
-
-
-
-
-
-  if(document.getElementById("price-range")){
+    if(document.getElementById("price-range")){
   
     var nonLinearSlider = document.getElementById('price-range');
     
@@ -118,11 +111,10 @@ $(function() {
     nonLinearSlider.noUiSlider.on('update', function ( values, handle, unencoded, isTap, positions ) {
         nodes[handle].innerHTML = values[handle];
     });
-  
   }
-  
 });
 
+if($(window).width() > 769) { $("#zoom").elevateZoom({gallery:'gall', zoomType:"lens", containLensZoom:true, borderSize:"2", zoomWindowHeight:"100%"}); } else { $(document).ready(function() { $('#gall a').click(function() { var srcImage = $('#gall a').children().eq($(this).index()).attr('src'); $('#zoom').attr('src', srcImage); return false;  }); }); }
 
 // const appendChild = Element.prototype.appendChild;
 //
