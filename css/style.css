@@ -5,7 +5,8 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 15px;
     font-weight: 400;
-    line-height: 1.667
+    line-height: 1.667;
+    overflow: scroll !important;
 }
 
 ul {
