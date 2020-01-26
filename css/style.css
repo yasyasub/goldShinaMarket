@@ -684,7 +684,7 @@ a {
 
 @media (max-width: 480px) {
     .header_area .navbar-collapse {
-        max-height: 250px
+height: auto
     }
     .home_banner_area .banner_inner .banner_content {
         margin-top: 0px
