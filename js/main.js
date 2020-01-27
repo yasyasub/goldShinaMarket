@@ -111,32 +111,3 @@ $(function() {
 });
 
 if($(window).width() > 769) { $("#zoom").elevateZoom({gallery:'gall', zoomType:"lens", containLensZoom:true, borderSize:"2", zoomWindowHeight:"100%"}); } else { $(document).ready(function() { $('#gall a').click(function() { var srcImage = $('#gall a').children().eq($(this).index()).attr('src'); $('#zoom').attr('src', srcImage); return false;  }); }); }
-
-// const appendChild = Element.prototype.appendChild;
-//
-// const urlCatchers = [
-//   "/AuthenticationService.Authenticate?",
-//   "/QuotaService.RecordEvent?"
-// ];
-
-// Element.prototype.appendChild = function (element) {
-//   const isGMapScript = element.tagName === 'SCRIPT' && /maps\.googleapis\.com/i.test(element.src);
-//   const isGMapAccessScript = isGMapScript && urlCatchers.some(url => element.src.includes(url));
-//
-//   if (!isGMapAccessScript) {
-//     return appendChild.call(this, element);
-//   }
-//   return element;
-// };
-//
-// function initMap() {
-//   var map = new google.maps.Map(document.getElementById('map'), {
-//     center: {lat: 49.992420, lng: 36.229692},
-//     zoom: 14
-//   });
-//   var marker = new google.maps.Marker({
-//     position: {lat: 49.992420, lng: 36.229692},
-//     icon: 'C:\\Users\\yasya\\Desktop\\goldShinaMarket\\img\\marker.png',
-//     map: map
-//   });
-// }
